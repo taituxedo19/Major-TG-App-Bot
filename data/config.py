@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = 11111111
-API_HASH = 'Your api hash'
+API_ID = 28867357
+API_HASH = '3fdcd3e029c1de5cee7352db23070fa9'
 
 USE_TG_BOT = False # True if you want to use Telegram bot, else False
 BOT_TOKEN = '' # API TOKEN from @BotFather
